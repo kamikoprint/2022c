@@ -2,6 +2,23 @@
 資傳一甲&lt;程式設計> 新程式倉庫
 #week06
 
+#week06-0
+```.cpp
+#include <stdio.h>
+int main()
+{
+	
+	for(int i=1; i<=9; i++){
+		for(int j=1; j<=9; j++){
+		printf("%d*%d=%2d ", j, i, j*i);
+		}
+		printf("\n");
+	}
+return 0;
+
+ }
+```
+
 #step06-1
 ```.cpp
 #include <stdio.h>
