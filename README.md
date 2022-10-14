@@ -1,8 +1,10 @@
 # 2022c
 資傳一甲&lt;程式設計> 新程式倉庫
-#week06
 
-#week06-0 
+# week06
+
+# week06-0 
+
 #九九乘法表考試
 ```.cpp
 #include <stdio.h>
@@ -20,7 +22,7 @@ return 0;
  }
 ```
 
-#step06-1
+# step06-1
 #畫星星、金字塔
 ```.cpp
 #include <stdio.h>
@@ -36,7 +38,8 @@ return 0;
 
 }
 ```
-#step06-2
+
+# step06-2
 #畫金字塔、 加上鷹架表示數量
 ```.cpp
 #include <stdio.h>
@@ -60,7 +63,8 @@ int main(){
 
 }
 ```
-#step06-3
+
+# step06-3
 #暴力解法
 ```.cpp
 #include <stdio.h>
@@ -81,7 +85,8 @@ int main(){
 return 0;
 }
 ```
-#step06-4
+
+# step06-4
 #輾轉相除法
 ```.cpp
 #include <stdio.h>
@@ -103,7 +108,8 @@ int main(){
 return 0;
 }
 ```
-#step06-5
+
+# step06-5
 #if判斷式成立不成立
 ```.cpp
 #include <stdio.h>
